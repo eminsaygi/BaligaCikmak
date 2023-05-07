@@ -59,5 +59,16 @@ class ViewController: UIViewController {
                }
            }
 
+    @IBAction func buttonPressed(_ sender: UIButton) {
+          if sender.currentTitle == String(randomNumber) {
+              let alert = UIAlertController(title: "Tebrikler!", message: "Doğru cevap.", preferredStyle: .alert)
+              alert.addAction(UIAlertAction(title: "Tamam", style: .default, handler: nil))
+              self.present(alert, animated: true, completion: nil)
+          } else {
+              let alert = UIAlertController(title: "Yanlış cevap!", message: "Tekrar dene.", preferredStyle: .alert)
+              alert.addAction(UIAlertAction(title: "Tamam", style: .default, handler: nil))
+              self.present(alert, animated: true, completion: nil)
+          }
+      }
+  }
 
-}
