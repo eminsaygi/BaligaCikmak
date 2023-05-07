@@ -28,4 +28,8 @@ class ViewController: UIViewController {
            box2.text = String(number2)
            box3.text = String(number3)
            box4.text = String(number4)
+        
+        // 3 kutuya karelerini ekle, 1 kutuya rastgele bir sayı ekle
+        let randomNumberIndex = Int.random(in: 0...3)
+
 }
