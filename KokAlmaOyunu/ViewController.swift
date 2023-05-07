@@ -12,4 +12,20 @@ class ViewController: UIViewController {
     @IBOutlet weak var button4: UIButton!
     
 
+    var randomNumber: Int = 0
+
+    override func viewDidLoad() {
+           super.viewDidLoad()
+           // Do any additional setup after loading the view.
+
+           // Random sayıları kutulara ekle
+           let number1 = Int.random(in: 2...15)
+           let number2 = Int.random(in: 2...15)
+           let number3 = Int.random(in: 2...15)
+           let number4 = Int.random(in: 2...15)
+
+           box1.text = String(number1)
+           box2.text = String(number2)
+           box3.text = String(number3)
+           box4.text = String(number4)
 }
