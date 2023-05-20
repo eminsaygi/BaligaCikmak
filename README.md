@@ -15,7 +15,6 @@ Sandaldaki cocuklar valnizca kendi önlerindeki sayinin yazili oldugu baligi tut
 
 ## Preview
 :-------------------------: 
-![Preview](https://github.com/eminsaygi/KokAlmaOyunu/assets/44553346/2a840d8e-4f84-424d-9812-b62dd335e769) 
 
 https://github.com/eminsaygi/KokAlmaOyunu/assets/44553346/2a840d8e-4f84-424d-9812-b62dd335e769
 
