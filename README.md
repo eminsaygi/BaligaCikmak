@@ -13,9 +13,11 @@ Sandaldaki cocuklar valnizca kendi önlerindeki sayinin yazili oldugu baligi tut
 
 
 
-Object Detection Sample 
+## Preview
 :-------------------------: 
-![Preview](https://github.com/eugenedrongal/TMDBAPP/assets/44553346/46e862fe-4773-4b42-914d-41bd5a1903f3) 
+![Preview](https://github.com/eminsaygi/KokAlmaOyunu/assets/44553346/2a840d8e-4f84-424d-9812-b62dd335e769) 
+
+https://github.com/eminsaygi/KokAlmaOyunu/assets/44553346/2a840d8e-4f84-424d-9812-b62dd335e769
 
 
 # Building
