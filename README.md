@@ -27,7 +27,7 @@ The app uses CocoaPods to manage dependencies, so be sure and complete the follo
 
 ##### 1. Clone the Repo Locally
 ```Bash
-git clone https://github.com/eminsaygi/KokAlmaOyunu.git
+git clone https://github.com/eminsaygi/BaligaCikmak.git
 ```
 ##### 2. Install the Pods
 ```Bash
