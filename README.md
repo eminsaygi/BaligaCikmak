@@ -1,6 +1,6 @@
 # Balığa Çıkmak
 
-Bu proje, Muhammet Emin Saygı tarafından Fırat Üniversitesi Yazılım Mühendisliği Güncel Konular dersi vizesi için geliştirilen bir mobil oyundur. Oyunun adı 'Balığa Çıkmak' olarak belirlenmiştir ve 'Mobil' platformda çalışmaktadır.
+Bu proje, Muhammet Emin Saygı tarafından Fırat Üniversitesi Yazılım Mühendisliği Güncel Konular dersi vizesi için geliştirilen bir mobil oyundur. Oyunun adı 'Balığa Çıkmak' olarak belirlenmiştir ve 'Mobil(iOS)' platformda çalışmaktadır.
 
 
 
@@ -14,7 +14,7 @@ Bu proje, Muhammet Emin Saygı tarafından Fırat Üniversitesi Yazılım Mühen
 
 Proje Hakkında 
 :-------------------------: 
-![Proje Hakkında](https://github.com/eminsaygi/KokAlmaOyunu/assets/44553346/74c6e80f-325c-4957-8e59-7390ab153a57)
+![Proje Hakkında](https://github.com/eminsaygi/KokAlmaOyunu/assets/44553346/74c6e80f-325c-4957-8e59-7390ab153a57 width="300" height="200")
 
 ## Preview
 
