@@ -9,16 +9,9 @@ Bu proje, Muhammet Emin Saygı tarafından Fırat Üniversitesi Yazılım Mühen
 - iOS 11.0+
 - Xcode 11.0+
 
-
-## Proje Hakkında
-
-Proje Hakkında 
-:-------------------------: 
-![Proje Hakkında]()
-
 ## PROJE KONUSU VE AMACI
 <p align="left">
-  <img src="https://github.com/eminsaygi/KokAlmaOyunu/assets/44553346/74c6e80f-325c-4957-8e59-7390ab153a57" alt="Açıklama" width="300" height="400" />
+  <img src="https://github.com/eminsaygi/KokAlmaOyunu/assets/44553346/74c6e80f-325c-4957-8e59-7390ab153a57" alt="Açıklama" width="350" height="500" />
 </p>
 
 ## Preview
