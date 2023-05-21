@@ -1,21 +1,26 @@
 # Balığa Çıkmak
 
-Sandaldaki cocuklar valnizca kendi önlerindeki sayinin yazili oldugu baligi tutabilir. Hiç balk tutamayacak olan çocugu ve kaçacak olan balığı daire içine alınız.
+Bu proje, Muhammet Emin Saygı tarafından Fırat Üniversitesi Yazılım Mühendisliği Güncel Konular dersi vizesi için geliştirilen bir mobil oyundur. Oyunun adı 'Balığa Çıkmak' olarak belirlenmiştir ve 'Mobil' platformda çalışmaktadır.
 
 
 
-## Requirements
+## Gereksinimler
 
 - iOS 11.0+
 - Xcode 11.0+
-- UIKit
 
 
+## Proje Hakkında
 
+Proje Hakkında 
+:-------------------------: 
+![Proje Hakkında](https://github.com/eminsaygi/KokAlmaOyunu/assets/44553346/74c6e80f-325c-4957-8e59-7390ab153a57)
 
 ## Preview
 
 https://github.com/eminsaygi/KokAlmaOyunu/assets/44553346/2a840d8e-4f84-424d-9812-b62dd335e769
+
+
 
 
 # Building
